@@ -24,6 +24,7 @@ class wo286ge8 extends React.Component {
                                     src="https://filedn.com/lXcp1DYmRijpixduwqHOKqS/wheadsorg/jdlp2.mp4" 
                                     width="1280" 
                                     height="720"
+                                    poster="https://filedn.com/lXcp1DYmRijpixduwqHOKqS/wheadsorg/cover%20mo.jpg"                                    
                                     class="swarm-fluid" controls>
                                 </smartvideo>
                             </span>
@@ -31,7 +32,6 @@ class wo286ge8 extends React.Component {
                     </div>
                 </section>
                 <div>
-                  <br/>
                   <br/>
                   <br/>
                   <br/>
